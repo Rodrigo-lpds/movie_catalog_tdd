@@ -23,3 +23,10 @@ If the environment it's appropriately configured, just run the following to star
 ```
 rails server
 ```
+
+And execute the following to run the tests:
+
+```
+rspec
+```
+
